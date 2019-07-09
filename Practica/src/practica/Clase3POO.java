@@ -1,21 +1,17 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package practica;
 
-/**
- *
- * @author EDWGIOR
- */
 public class Clase3POO {
 
-    /**
-     * @param args the command line arguments
-     */
+ 
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Cantante c1 = new Cantante();
+        Persona p1 = new Persona();
+        
+        c1.cantar();
+        p1.cantar();
+
     }
     
 }
