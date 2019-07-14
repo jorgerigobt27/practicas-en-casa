@@ -1,5 +1,5 @@
 
-package PracticaEnCasa;
+package JavaStandard.Clase3;
 
 public class Moto extends Transporte {
     

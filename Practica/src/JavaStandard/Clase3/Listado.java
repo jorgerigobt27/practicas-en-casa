@@ -1,4 +1,4 @@
-package PracticaEnCasa;
+package JavaStandard.Clase3;
 
 import PracticaDeParadigma.Cliente;
 import static PracticaDeParadigma.Principal.imprimir;

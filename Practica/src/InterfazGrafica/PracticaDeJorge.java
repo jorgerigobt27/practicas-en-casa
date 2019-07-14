@@ -4,8 +4,8 @@ import java.awt.Color;
 
 public class PracticaDeJorge extends javax.swing.JFrame {
 
-    private String usuario = "jorge";
-    private String contraseña = "1234";
+    public String usuario = "jorge";
+    public String contraseña = "1234";
 
     public PracticaDeJorge() {
         initComponents();
@@ -170,7 +170,7 @@ public class PracticaDeJorge extends javax.swing.JFrame {
 
     private void txtUsuarioKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtUsuarioKeyTyped
 
-        if (txtUsuario.getText() == "jorge") {
+        if (txtUsuario.equals(usuario)) {
             lblValidaUsuario.setText("correcto!");
             lblValidaUsuario.setForeground(Color.green);
         } else {

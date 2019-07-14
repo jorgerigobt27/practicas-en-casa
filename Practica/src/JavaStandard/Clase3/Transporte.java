@@ -1,7 +1,7 @@
 
-package PracticaEnCasa;
+package JavaStandard.Clase3;
 
-public class Transporte {
+public abstract class Transporte {
     private String nombre; 
     private int año;
     private String marca;

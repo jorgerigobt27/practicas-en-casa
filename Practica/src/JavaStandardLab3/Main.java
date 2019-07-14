@@ -1,4 +1,4 @@
-package practica.LaboratorioClase3;
+package JavaStandardLab3;
 
 public class Main {
 

@@ -1,5 +1,7 @@
 
-package practica;
+package JavaStandard.Clase3;
+
+import JavaStandard.Clase3.Cantante;
 
 public class Clase3POO {
 

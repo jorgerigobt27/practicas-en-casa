@@ -1,5 +1,5 @@
 
-package practica;
+package JavaStandard.Clase3;
 
 public class Persona {
     
