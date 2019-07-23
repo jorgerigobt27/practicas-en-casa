@@ -1,7 +1,0 @@
-
-package EjercicioBscador;
-
-
-class Resultado {
-    
-}
